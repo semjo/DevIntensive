@@ -1,27 +1,24 @@
 <resources>
     <string name="app_name">Семенюк Евгений</string>
+    <string name="txt.hint.telephon">Мобильный телефон</string>
+    <string name="txt.hint.email">E-mail</string>
+    <string name="txt.hint.vk">Профиль в контакте</string>
+    <string name="txt.hint.github">Репозиторий</string>
+    <string name="txt.hint.about">О себе</string>
+    <string name="txt.temp.about">Текст</string>
 
-    <string name="profile.rating.hint">Рейтинг</string>
-    <string name="profile.rating.dummy">5</string>
-    <string name="profile.string_counter.hint">Написано строк кода</string>
-    <string name="profile.string_counter.dummy">5</string>
-    <string name="profile.projects.hint">Проектов</string>
-    <string name="profile.projects.dummy">5</string>
+    <string name="user_profile_placeholder.image">Изменить фотографию профиля</string>
+    <string name="user.profile.dialog.gallery">Из галлереи</string>
+    <string name="user_profile.dialog.camera">Сделать снимок</string>
+    <string name="user_profile_dialog_cancel">Отмена</string>
+    <string name="user_profile_dialog_title">Изменить фотографию</string>
+    <string name="user_profile_chose_message">выберите фото</string>
+    <string name="error_call_phone">Не правильный формат телефона!!!</string>
+    <string name="error_send_email">Неверный формат почты.</string>
+    <string name="error_nourl_internet">Неверный формат ссылки!!!</string>
+    <string name="txt.hint_password">Password</string>
+    <string name="txt.login">Войти</string>
+    <string name="txt_forgot_password">Забыли пароль?</string>
 
-    <string name="profile.phone.hint">Мобильный телефон</string>
-    <string name="profile.phone.dummy">+7 (917) 971-11-11</string>
-    <string name="profile.email.hint">Email</string>
-    <string name="profile.email.dummy">semjo@mail.ru</string>
-    <string name="profile.vk.hint">Профиль в VK</string>
-    <string name="profile.vk.dummy">vk.com/id10476411</string>
-    <string name="profile.repository.hint">Репозиторий</string>
-    <string name="profile.repository.dummy">github.com/semjo/DevIntensive</string>
-    <string name="profile.about.hint">О себе</string>
-    <string name="profile.about.dummy">Экономист-менеджер</string>
-
-    <string name="make_call">Позвонить</string>
-    <string name="send_email">Отправить письмо</string>
-    <string name="show_vk_profile">Показать профиль</string>
-    <string name="show_repository">Показать репозиторий</string>
 
 </resources>

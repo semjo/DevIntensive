@@ -13,7 +13,7 @@
         android:layout_height="60dp"
         android:background="@color/color_accent"
         android:scaleType="centerCrop"
-        android:src="@drawable/userphoto"
+        android:src="@drawable/user_photo"
         android:layout_marginTop="@dimen/spacing_normal_16"/>
     
     <LinearLayout
@@ -36,7 +36,7 @@
             android:id="@+id/user_email_txt"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/profile.email.dummy"
+            android:text="semjo@mail.ru"
             android:textColor="@color/black"
             android:textSize="14sp"
             android:fontFamily="sans-serif"/>
